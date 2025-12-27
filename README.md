@@ -22,7 +22,10 @@ This application helps users manage daily tasks efficiently with persistent data
 <h3>How to Run the Project</h3>
 1. Make sure Python is installed on your system
 2. Clone the repository or download the files
+<br>
 3. Open terminal or command prompt
+<br>
 4. Run the following command:
+
 
 python to-do-list.py
